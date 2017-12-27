@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ar.motivateme.motivateme.TabFragment1">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ProgressBar
+        android:layout_width="70dp"
+        android:layout_margin="20dp"
+        android:backgroundTint="@color/red_co"
+        android:layout_height="70dp"
+        android:indeterminate="true"
+        android:layout_gravity="center"
+        style="@style/Widget.AppCompat.ProgressBar"/>
+
+</LinearLayout>
+
+
+
+
+
+
+   <android.support.v7.widget.RecyclerView
+       android:id="@+id/rv1"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_alignParentTop="true"
+       android:layout_alignParentStart="true">
+
+   </android.support.v7.widget.RecyclerView>
+
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D5489B</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="selectedTab">#e0e0e0</color>
+    <color name="Tabcolor">#004D40</color>
+    <color name="unselectedTab">#FAFAFA</color>
+    <color name="red_co">#FF8B8C</color>
+    <color name="noti">#B4E0E1</color>
+</resources>

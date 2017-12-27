@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MotivateMe</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">"No internet connection found \n"
+        "check internet and try again"</string>
+    <string name="try_ag">Try Again!</string>
+    <string name="q1_q">"Each day is a gift."\n</string>
+    <string name="q2_q">"Hold my hands and feel the beautiy of life"\n</string>
+    <string name="q3_q">"Each day is a gift."\n</string>
+
+
+
+
+</resources>
